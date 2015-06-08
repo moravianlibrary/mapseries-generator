@@ -1,13 +1,16 @@
 # mapseries-generator
 Generator of GeoJSON for mapseries with regular grid in defined coordinates
 
+-----------------------------
+
 Idea:
 Nastroj na online vytvoreni mapoveho indexu (pro pozdejsi kalalogizovani):
 
 Verze 1:
 1) Tabulkove zadani souradnic - ktere vytvori pravidelnou mrizku.
 
-Inline image 1
+![screen shot 2014-12-02 at 08 10 49](https://cloud.githubusercontent.com/assets/59284/8037062/faf3edba-0dfb-11e5-95d6-a66a54be77a1.png)
+
 Zápis 163850 odpovídá souřadnicím 16°38´50"
 a la http://www.staremapy.cz/marc/
 
